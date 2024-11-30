@@ -22,7 +22,7 @@
 3. การยื่นแบบภาษีออนไลน์: ใช้ในการยื่นแบบภาษีผ่านหน่วยงานภาครัฐ เช่น การยื่นแบบฟอร์ม e-Filing โดย Digital Signature ช่วยรับรองตัวตนและความครบถ้วนของข้อมูล
 
 นางสาวเพ็ญพิชชา ไพรวัลย์ 6530200312 sec800
-# [Aomie](https://skyandz.github.io/digital-signature) 
+# **Partner:** [Aomie](https://skyandz.github.io/digital-signature) 
 
 
 
