@@ -2,7 +2,7 @@
 
 - Penpicha Priwan
 	- pizza
-        -6530200312
+        - 6530200312
 
 
 ![profile](img/Image.jpg)
