@@ -8,5 +8,5 @@
 ![profile](img/Image.jpg)
 
 
-# [DIGITAL-SIGNATURE](digital-signature)
-# [e-card](e-card)
+# Vocabulary: [DIGITAL-SIGNATURE](digital-signature)
+# e-card: [e-card](e-card)
