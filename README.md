@@ -8,5 +8,5 @@
 ![profile](img/Image.jpg)
 
 
-# :ledger: Vocabulary: [DIGITAL-SIGNATURE](digital-signature)
-# :christmas_tree: e-card: [e-card](e-card.md)
+# Vocabulary: [DIGITAL-SIGNATURE](digital-signature)
+# e-card: [e-card](e-card.md)
