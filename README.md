@@ -5,7 +5,7 @@
   - 6530200312
 
 
-![profile](img/Image (2).jpg)
+![profile](img/Image2.jpg)
 
 
 # Vocabulary: [DIGITAL-SIGNATURE](digital-signature)
