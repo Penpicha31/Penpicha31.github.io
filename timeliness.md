@@ -1,5 +1,3 @@
-# Data Quality
-
 # Timeliness
 
 ![data](img/DataQuality.png)
