@@ -10,4 +10,4 @@
 
 # Vocabulary: [DIGITAL-SIGNATURE](digital-signature)
 # e-card: [e-card](e-card.md)
-# Timeliness: (timeliness.md)
+# Timeliness: [timeliness](timeliness.md)
