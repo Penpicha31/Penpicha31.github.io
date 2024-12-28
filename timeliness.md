@@ -1,6 +1,6 @@
 # Data Quality
 # Timeliness
-![img](img/Data Quality.png)
+![data](img/Data Quality.png)
 
 - **Definition:** Timeliness is the degree to which data is up-to-date and available within an acceptable time frame, timeline, and duration.
 The value of data-driven decisions not only depends on the correctness of the information but also on quick and timely answers. The time of occurrence of the associated real-world events is considered as a reference and the measure is assessed on a continuous basis. The value and accuracy of data may decay over time.
