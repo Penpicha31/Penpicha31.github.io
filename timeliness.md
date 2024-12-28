@@ -23,4 +23,4 @@ For instance, data about the number of traffic incidents from several years ago 
     - ข้อมูลที่ไม่ Timely: รายงานยอดขายของเดือนที่แล้ว
     - ข้อมูลที่ Timely: แดชบอร์ดแสดงยอดขายแบบ Real-time
     - ความสำคัญ: การวิเคราะห์ข้อมูลที่ Timely ช่วยให้ธุรกิจปรับกลยุทธ์ได้อย่างรวดเร็ว เพื่อรับมือกับการเปลี่ยนแปลงของตลาด
-
+- **[Source](https://www.bmc.com/blogs/data-integrity-vs-data-quality/)**
