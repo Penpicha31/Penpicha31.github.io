@@ -1,5 +1,7 @@
 # Data Quality
+
 # Timeliness
+
 ![data](img/DataQuality.png)
 
 - **Definition:** Timeliness is the degree to which data is up-to-date and available within an acceptable time frame, timeline, and duration.
