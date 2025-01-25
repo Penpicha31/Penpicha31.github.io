@@ -8,6 +8,7 @@
 ![profile](img/Image2.jpg)
 
 
-# Vocabulary: [DIGITAL-SIGNATURE](digital-signature)
-# e-card: [e-card](e-card.md)
-# Timeliness: [timeliness](timeliness.md)
+[DIGITAL-SIGNATURE](digital-signature)
+[E-card](e-card.md)
+[timeliness](timeliness.md)
+[Security Control](security-control.md)
