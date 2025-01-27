@@ -4,5 +4,5 @@
   - **Control Function:** Preventative
   - **Type of Security Control:** Physical Control
 
-![pic](img/scan.JPG)
+![pic](img/Img2.jpg)
 
