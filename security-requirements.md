@@ -1,6 +1,6 @@
-# Security Requirements
-- **2.5.7 :** Credential Recovery
-  - **details :** Verify that if OTP or multi-factor authentication factors are lost, that evidence of identity proofing is performed at the same level as during enrollment
+# 2.5.7 Credential Recovery
+
+- **details :** Verify that if OTP or multi-factor authentication factors are lost, that evidence of identity proofing is performed at the same level as during enrollment
     
   - **Chat GPT :** เมื่อผู้ใช้ทำ OTP หรือปัจจัย MFA สูญหาย กระบวนการกู้คืนต้องมีความเข้มงวดเทียบเท่ากับการลงทะเบียนครั้งแรก เพื่อป้องกันการสวมรอยและรักษาความปลอดภัยของบัญชีผู้ใช้
     
@@ -8,4 +8,4 @@
     
   - **My Self :** เป็นกระบวนการกู้คืนบัญชีที่ปลอดภัย เมื่อผู้ใช้สูญเสียปัจจัยการยืนยันตัวตนแบบ Multi-Factor Authentication (MFA) เช่น OTP โดยกำหนดให้มีการยืนยันตัวตนที่เข้มงวดเทียบเท่ากับตอนที่ผู้ใช้ลงทะเบียน MFA ครั้งแรก เพื่อป้องกันการสวมรอยและรักษาความปลอดภัยของบัญชีผู้ใช้ กระบวนการนี้จึงเป็นสิ่งจำเป็นเพื่อสร้างความมั่นใจว่า มีเพียงเจ้าของบัญชีที่แท้จริงเท่านั้น ที่จะสามารถเข้าถึงบัญชีได้ แม้ในกรณีที่สูญเสียปัจจัยการยืนยันตัวตน เช่น การใช้คำถามลับที่ผู้ใช้ตั้งไว้ตอนลงทะเบียน, การยืนยันตัวตนผ่านอีเมลหรือ SMS, การยืนยันด้วยเอกสาร เช่น สำเนาบัตรประชาชน เป็นต้น
 
-# Partner: [Penpicha Priwan](https://skyandz.github.io/security-requirement)
+# Partner: [Pattralada Pobteepheung](https://skyandz.github.io/security-requirement)
