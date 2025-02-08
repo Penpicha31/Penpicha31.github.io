@@ -1,6 +1,6 @@
 # 2.5.7 Credential Recovery
 
-- **details :** Verify that if OTP or multi-factor authentication factors are lost, that evidence of identity proofing is performed at the same level as during enrollment
+- **details :** Verify that if OTP or multi-factor authentication factors are lost, that evidence of identity proofing is performed at the same level as during enrollment.
     
   - **Chat GPT :** เมื่อผู้ใช้ทำ OTP หรือปัจจัย MFA สูญหาย กระบวนการกู้คืนต้องมีความเข้มงวดเทียบเท่ากับการลงทะเบียนครั้งแรก เพื่อป้องกันการสวมรอยและรักษาความปลอดภัยของบัญชีผู้ใช้
     
