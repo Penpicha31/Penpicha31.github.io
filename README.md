@@ -16,4 +16,4 @@
 
 - [Security Control](security-control.md)
 
-- [Security Requirements](security-requirements.md)
+- [Security Requirement](security-requirement.md)
